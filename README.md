@@ -4,5 +4,5 @@ first login with your userName and Password then you'll be directed to the main 
 
 HOW TO USED THE APP.
 Clone it from github and install type NPM INSTALL for node pakage manager.
-NPM INSTALL EXPO-CLI 
+NPM INSTALL EXPO-CLI  and
 EXPO GO IN YOUR PHONE TO RUN THE APP OR ANDRIOD EMULATOR IF YOU HAVE ONE.
